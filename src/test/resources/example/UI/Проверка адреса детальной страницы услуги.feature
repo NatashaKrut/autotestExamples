@@ -2,7 +2,7 @@
 
 Feature: Работа с UI
 
-  Scenario: Пример сценария
+  Scenario: Проверка ссылок в подсказках
     Given Открываю главную страницу https://www.invitro.ru/?CITY_NAME=moscow
     When Нажимаю на Медицинские услуги
     When Жду завершения загрузки страницы
